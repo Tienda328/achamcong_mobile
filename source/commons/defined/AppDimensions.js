@@ -98,7 +98,8 @@ export const sizeIcon14 = 14
 export const sizeIcon16 = 16
 export const sizeIcon18 = 18
 export const sizeIcon20 = 20
-export const sizeIcon24 = 70
+export const sizeIcon24 = 24
+// export const sizeIcon24 = 70
 
 //Button
 export const heightButton = 45
