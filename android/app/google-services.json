@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "857684987888",
+    "firebase_url": "https://attendanceninja.firebaseio.com",
+    "project_id": "attendanceninja",
+    "storage_bucket": "attendanceninja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857684987888:android:1f25ecea3a9c0c9c475735",
+        "android_client_info": {
+          "package_name": "com.checkinproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857684987888-ju7mjqsrjp12cjrvsu706bqqd6re1d9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8XN9FldpJx0Bj4cbBY4vgDU8FbpdeEF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857684987888-ju7mjqsrjp12cjrvsu706bqqd6re1d9h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "857684987888-0u664uc04tu6fcu0g09s1t2cjba771qj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.datviet.checkinproject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857684987888:android:0ca065faed58ddb0475735",
+        "android_client_info": {
+          "package_name": "com.ninjateam.robotmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857684987888-ju7mjqsrjp12cjrvsu706bqqd6re1d9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8XN9FldpJx0Bj4cbBY4vgDU8FbpdeEF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857684987888-ju7mjqsrjp12cjrvsu706bqqd6re1d9h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "857684987888-0u664uc04tu6fcu0g09s1t2cjba771qj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.datviet.checkinproject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857684987888:android:36fc5e9cd3020922475735",
+        "android_client_info": {
+          "package_name": "test.com.alt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857684987888-ju7mjqsrjp12cjrvsu706bqqd6re1d9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8XN9FldpJx0Bj4cbBY4vgDU8FbpdeEF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857684987888-ju7mjqsrjp12cjrvsu706bqqd6re1d9h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "857684987888-0u664uc04tu6fcu0g09s1t2cjba771qj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.datviet.checkinproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
